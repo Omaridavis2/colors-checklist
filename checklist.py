@@ -67,27 +67,8 @@ def test():
     create("purple sox")
     create("red cloak")
 
-    # print(read(0))
-    # print(read(1))
+    
 
-    # update(0, "purple socks")
-    # destroy(1)
-
-    # print(read(0))
-    # print(read(1))
-
-
-
-    # # Call your new function with the appropriate value
-    # select("C")
-    # # View the results
-    # list_all_items()
-    # # Call function with new value
-    # select("R")
-    # # View results
-    # list_all_items()
-    # # Continue until all code is run
-   
 
 
 test()
